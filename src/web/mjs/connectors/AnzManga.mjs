@@ -7,7 +7,7 @@ export default class AnzManga extends MangaReaderCMS {
         super.id = 'anzmanga';
         super.label = 'AnzManga';
         this.tags = [ 'manga', 'spanish' ];
-        this.url = 'https://www.anzmangashd.com';
+        this.url = 'https://www.anzmanga25.com';
 
         this.language = 'es';
     }
